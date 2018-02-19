@@ -52,6 +52,9 @@ $ pyenv global system
 ```
 $ echo 'export PATH="$PYENV_ROOT/versions/anaconda3-5.1.0/bin/:$PATH"' >> ~/.bash_profile
 $ source ~/.bash_profile
+```
+* conda 自体のアップデート
+```
 $ conda update conda
 ```
 
