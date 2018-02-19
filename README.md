@@ -10,7 +10,7 @@
 
 ## conda をインストール
 * [anaconda で導入](https://www.anaconda.com/download/#linux)...と思いきや
-> :link: http://corochann.com/setup-python-environment-1395.html
+> :link: http://corochann.com/setup-python-environment-1395.html <br />
 > However, if you only install anaconda, it also installs curl, sqlite, openssl and override additional commands, which might cause conflict with existing environment. 
 > **Recommended way is to install anaconda on top of pyenv.**
 
