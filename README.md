@@ -149,7 +149,7 @@ $ conda remove -n old_name --all
 ```
 
 ### (Tips 5) JupyterNotebook の設定をしたり
-* Notebook上で2系/3系を選べる
+* Notebook上で作った環境を選べる（はず）
 ```
 $ conda install ipykernel
 $ conda install nb_conda
