@@ -128,6 +128,7 @@ $ conda uninstall tensorflow
 ```
 * アップデート
 ```
+$ conda update --all
 $ conda update tensorflow
 ```
 
