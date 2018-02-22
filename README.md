@@ -85,7 +85,7 @@ $ conda --version
 
 ## conda の使い方
 ### (Tips 1) 環境を作ったり消したり
-* 作った環境を確認
+* 作った環境を確認（create したことなければ`root`もしくは`base`のみのはず）
 ```
 $ conda env list
 ```
