@@ -85,15 +85,15 @@ $ conda --version
 
 ## conda の使い方
 ### (Tips 1) 環境を作ったり消したり
-* 作った環境を確認（create したことなければ`root`もしくは`base`のみのはず）
-```
-$ conda env list
-```
 * 作る
 ```
 $ conda search python                       # 導入できる python のバージョン検索
 $ conda create -n foo python=3.6 anaconda   # foo はなんでもいい
 $ conda create -n py2 python=2.7 anaconda   # 2系
+```
+* 作った環境を確認（`create`したことなければ`root`もしくは`base`のみのはず）
+```
+$ conda env list
 ```
 * 入る
 ```
