@@ -40,15 +40,11 @@ $ source ~/.bash_profile
 $ pyenv install -l | grep ana         # 最新版を確認（2系:anaconda2-*, 3系:anaconda3-*）
 $ pyenv install anaconda3-5.1.0      # 特に理由がなければ、3系の一番新しいやつ。メモ当時 5.1.0
 $ pyenv rehash
+```
+* anaconda をメインの python に設定
+```
+$ pyenv global anaconda 3-5.1.0
 $ pyenv versions
- * system (set by /home/tarou/.pyenv/version)
-   anaconda3-5.1.0
-```
-
-* メインの python に設定
-```
-$ pyenv global anaconda 3-5.1.0       # anaconda をメインの python に設定
-$ pyenv versions                      # 確認
    system
  * anaconda3-5.1.0 (set by /home/kotani/.pyenv/version)
 ```
