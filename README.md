@@ -38,7 +38,7 @@ $ source ~/.bash_profile
 ### (Step 2) anaconda をインストール
 ```
 $ pyenv install -l | grep ana         # 最新版を確認（2系:anaconda2-*, 3系:anaconda3-*）
-$ pyenv install anaconda 3-5.1.0      # 特に理由がなければ、3系の一番新しいやつ。メモ当時 5.1.0
+$ pyenv install anaconda3-5.1.0      # 特に理由がなければ、3系の一番新しいやつ。メモ当時 5.1.0
 $ pyenv rehash
 $ pyenv versions
  * system (set by /home/tarou/.pyenv/version)
