@@ -2,12 +2,12 @@
 :beginner: はじめてのconda
 
 ## やること
-* anaconda で「ユーザーローカルに」Python 環境を楽々構築
+* anaconda で「ユーザーローカルに」Python 環境を構築
 * conda コマンドを知る
 
 ## conda ? anaconda ?
 * anaconda はPython本体と科学技術計算の基本ライブラリがセットになった「ディストリビューション」
-* conda は anacondaやminicondaなどに内包される「パッケージ管理＆環境マネジメント」システム
+* conda は anacondaやminicondaなどに内包される「パッケージ管理＆環境マネジメントシステム」
 * もっと知りたければ[これ](http://corochann.com/setup-python-environment-1395.html)を読む
 
 ## conda を導入
