@@ -43,7 +43,7 @@ $ pyenv rehash
 ```
 * anaconda をメインの python に設定
 ```
-$ pyenv global anaconda 3-5.1.0
+$ pyenv global anaconda3-5.1.0
 $ pyenv versions
    system
  * anaconda3-5.1.0 (set by /home/kotani/.pyenv/version)
