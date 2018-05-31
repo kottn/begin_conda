@@ -61,6 +61,10 @@ $ source ~/.bash_profile
 ```
 $ conda update conda
 ```
+* 全部アップデート
+```
+$ conda update --all
+```
 
 ### (Step 3) 参照している python を確認して、おわり。
 ```
